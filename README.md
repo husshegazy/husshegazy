@@ -8,6 +8,6 @@
 - Bullet Points user. 
 
 ## Socials
-- [Linkedin:](https://www.linkedin.com/in/husshegazy/)
-- [X.com:](https://x.com/husshegazy)
+- [Linkedin](https://www.linkedin.com/in/husshegazy/)
+- [X.com](https://x.com/husshegazy)
 - Email: husshegazydev@gmail.com
