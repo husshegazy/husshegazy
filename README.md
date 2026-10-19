@@ -10,4 +10,5 @@
 ## Socials
 - [Linkedin](https://www.linkedin.com/in/husshegazy/)
 - [X.com](https://x.com/husshegazy)
-- Email: husshegazydev@gmail.com
+- Email: husshegazy@gmail.com
+- https://husshegazy.io/
